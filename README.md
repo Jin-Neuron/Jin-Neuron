@@ -1,5 +1,11 @@
 # Jin Neuron
 
+## indroduce
+
+高専に生息する電子工作er
+
+高専祭学科展示品製作や各種コンテスト、その他個人製作...etc
+
 ## Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jin-314&theme=github_dark)
 
