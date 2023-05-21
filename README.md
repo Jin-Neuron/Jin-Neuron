@@ -29,8 +29,8 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [電磁部品で音を奏でる stm32編](https://jinproduction.work/product/elemag-harmony/stm32)
+- [電磁部品で音を奏でる ハードウェア編](https://jinproduction.work/product/elemag-harmony/hardware)
 - [midiプレイヤーを自作する ～再生処理と時間制御～](https://jinproduction.work/product/elemag-harmony/make-midiplayer-2)
 - [midiプレイヤーを自作する ～仕様からノートデータ処理まで～](https://jinproduction.work/product/elemag-harmony/make-midiplayer-1)
 - [電磁部品で音を奏でよう！ ～概要～](https://jinproduction.work/product/elemag-harmony/summary-2)
-- [抵抗器の使用法](https://jinproduction.work/craft-blog/electric-circuit/resistor)
 <!-- BLOG-POST-LIST:END -->
