@@ -28,9 +28,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [midiプレイヤーを自作する ～再生処理と時間制御～](https://jinproduction.work/product/elemag-harmoney/make-midiplayer-2)
-- [midiプレイヤーを自作する ～仕様からノートデータ処理まで～](https://jinproduction.work/product/elemag-harmoney/make-midiplayer-1)
-- [電磁部品で音を奏でよう！ ～概要～](https://jinproduction.work/product/elemag-harmoney/summary-2)
+- [midiプレイヤーを自作する ～再生処理と時間制御～](https://jinproduction.work/product/elemag-harmony/make-midiplayer-2)
+- [midiプレイヤーを自作する ～仕様からノートデータ処理まで～](https://jinproduction.work/product/elemag-harmony/make-midiplayer-1)
+- [電磁部品で音を奏でよう！ ～概要～](https://jinproduction.work/product/elemag-harmony/summary-2)
 - [抵抗器の使用法](https://jinproduction.work/craft-blog/electric-circuit/resistor)
 - [電気回路の大原則](https://jinproduction.work/craft-blog/electric-circuit/voltage-current)
 <!-- BLOG-POST-LIST:END -->
