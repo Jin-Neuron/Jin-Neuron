@@ -28,9 +28,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [不安定マルチバイブレータ回路の仕組み](https://jinproduction.work/craft-blog/electric-circuit/multivibrator)
 - [コンデンサの原理と使用法](https://jinproduction.work/craft-blog/electric-circuit/use-capacitor)
 - [MOSFETの原理と使用法](https://jinproduction.work/craft-blog/electric-circuit/use-mosfet)
 - [オリジナルマイコンボードを作ろう！](https://jinproduction.work/craft-blog/microcomputer/make-microcomputer-board)
 - [ギターを自動で演奏する！？ デンジギター概要](https://jinproduction.work/product/elemag-harmony/denjiguitar-summary)
-- [電磁部品で音を奏でる ハードウェア編](https://jinproduction.work/product/elemag-harmony/hardware)
 <!-- BLOG-POST-LIST:END -->
