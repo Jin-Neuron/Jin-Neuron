@@ -28,7 +28,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [コンデンサの使用法](https://jinproduction.work/craft-blog/electric-circuit/use-capacitor)
+- [コンデンサの原理と使用法](https://jinproduction.work/craft-blog/electric-circuit/use-capacitor)
 - [MOSFETの原理と使用法](https://jinproduction.work/craft-blog/electric-circuit/use-mosfet)
 - [オリジナルマイコンボードを作ろう！](https://jinproduction.work/craft-blog/microcomputer/make-microcomputer-board)
 - [ギターを自動で演奏する！？ デンジギター概要](https://jinproduction.work/product/elemag-harmony/denjiguitar-summary)
