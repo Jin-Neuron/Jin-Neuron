@@ -7,10 +7,10 @@
 高専祭学科展示品製作や各種コンテスト、その他個人製作...etc
 
 ## Status
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jin-314&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jin-neuron&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jin-314&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jin-314&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jin-neuron&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jin-neuron&theme=github_dark)
 
 ## Skills
 
