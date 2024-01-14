@@ -28,9 +28,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [音に合わせて光る！？ オーディオビジュアライザーを作る](https://jinproduction.work/product/elemag-harmony/audio-visualizer)
 - [不安定マルチバイブレータ回路の仕組み](https://jinproduction.work/craft-blog/electric-circuit/multivibrator)
 - [コンデンサの原理と使用法](https://jinproduction.work/craft-blog/electric-circuit/use-capacitor)
 - [MOSFETの原理と使用法](https://jinproduction.work/craft-blog/electric-circuit/use-mosfet)
 - [オリジナルマイコンボードを作ろう！](https://jinproduction.work/craft-blog/microcomputer/make-microcomputer-board)
-- [ギターを自動で演奏する！？ デンジギター概要](https://jinproduction.work/product/elemag-harmony/denjiguitar-summary)
 <!-- BLOG-POST-LIST:END -->
