@@ -28,9 +28,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [保護中: 私達は一体なんのために技術を学ぶのか。 深刻な世界の技術事情](https://jinproduction.work/other/blog/technical-circumstances)
 - [高専生はかくあるべきか？ 技術と高専の深い繋がり](https://jinproduction.work/other/blog/kosen-technology)
 - [これは使える！ 実践的電子工作キットを開発してみた](https://jinproduction.work/product/turtlepicokit/kit-summary)
 - [磁石の力でギターを自動演奏！？ 第２回「仕組みと完成」](https://jinproduction.work/product/elemag-harmony/denjigutar-complete)
 - [くねくねと曲がり変化自在！ フレキシブル基板を試してみた](https://jinproduction.work/other/review/fleibleprintedboard)
-- [音に合わせて光る！？ オーディオビジュアライザーを作る](https://jinproduction.work/product/elemag-harmony/audio-visualizer)
 <!-- BLOG-POST-LIST:END -->
