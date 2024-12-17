@@ -17,7 +17,8 @@
 ### GitHub
 
 ![](https://komarev.com/ghpvc/?username=jin-neuron)
-![](https://img.shields.io/github/followers/jin-neuron?label=follow&logo=github&style=flat)
+![](https://img.shields.io/github/followers/jin-neuron?label=follow&style=flat)
+![](https://img.shields.io/github/stars/jin-neuron?style=flat)
 
 ![](https://raw.githubusercontent.com/Jin-Neuron/Jin-Neuron/output/github-contribution-grid-snake-dark.svg)
 
