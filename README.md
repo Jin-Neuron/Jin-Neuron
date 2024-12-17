@@ -8,9 +8,16 @@
 
 ## Status
 
+### ProtoPedia
+
 [![ProtoPedia posts](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=jin_neuron&post=true)](https://protopedia.net/prototyper/jin_neuron)
 [![ProtoPedia views](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=jin_neuron&view=true)](https://protopedia.net/prototyper/jin_neuron)
 [![ProtoPedia good](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=jin_neuron&good=true)](https://protopedia.net/prototyper/jin_neuron)
+
+### GitHub
+
+![](https://komarev.com/ghpvc/?username=jin-neuron&color=brightgreen)
+![](https://img.shields.io/github/followers/jin-neuron?label=follow&logo=github&style=flat)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jin-neuron&theme=github_dark)
 
