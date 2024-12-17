@@ -7,6 +7,11 @@
 高専祭学科展示品製作や各種コンテスト、その他個人製作...etc
 
 ## Status
+
+[![ProtoPedia posts](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=jin_neuron&post=true)](https://protopedia.net/prototyper/jin_neuron)
+[![ProtoPedia views](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=jin_neuron&view=true)](https://protopedia.net/prototyper/jin_neuron)
+[![ProtoPedia good](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=jin_neuron&good=true)](https://protopedia.net/prototyper/jin_neuron)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jin-neuron&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jin-neuron&theme=github_dark)
