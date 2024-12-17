@@ -19,6 +19,8 @@
 ![](https://komarev.com/ghpvc/?username=jin-neuron)
 ![](https://img.shields.io/github/followers/jin-neuron?label=follow&logo=github&style=flat)
 
+![](https://raw.githubusercontent.com/Jin-Neuron/Jin-Neuron/output/github-contribution-grid-snake-dark.svg)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jin-neuron&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jin-neuron&theme=github_dark)
