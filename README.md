@@ -41,9 +41,6 @@
 
 <p align="left"> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://wordpress.com/ja/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://inkscape.org/ja/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-## Music
-
-
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [今日を変え、明日を創るものづくり ~7年の高専生活及びその謝辞~](https://jinproduction.work/other/blog/thanks-for-all-of-my-friends)
