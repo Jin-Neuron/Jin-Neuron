@@ -43,9 +43,6 @@
 
 ## Music
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nkkrpypuyxb0xd6bh88smsu9e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=nkkrpypuyxb0xd6bh88smsu9e)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
