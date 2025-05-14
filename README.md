@@ -43,7 +43,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [心躍る新技術を体感しよう！ 大阪・関西万博参加レポート①~外観編~](https://jinproduction.work/other/expo2025/joined-report-exterior-2)
+- [心躍る新技術を体感しよう！ 大阪・関西万博参加レポート①~外観編~](https://jinproduction.work/other/expo2025/joined-report-exterior)
 - [今日を変え、明日を創るものづくり ~7年の高専生活及びその謝辞~](https://jinproduction.work/other/blog/thanks-for-all-of-my-friends)
 - [ProtoPediaプロフィールを充実させて、屈強なポートフォリオにしよう！](https://jinproduction.work/other/blog/protopedia-profile-portfoliio)
 - [PCBWayの10周年をお祝いしよう！ アニバーサリーイベント詳細とTurtlePicoのアップデート情報](https://jinproduction.work/work/turtlepicokit/pcbway-10th-turtlepico-new)
