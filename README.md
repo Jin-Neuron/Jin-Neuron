@@ -43,9 +43,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [研究しながら開発をする日々](https://jinproduction.work/other/blog/research-and-development)
 - [拡張性を得てより便利に！？ TurtlePico新モジュールの概要](https://jinproduction.work/work/turtlepicokit/v2-leatherback)
 - [予約チキンレースに勝ち抜こう！ 大阪・関西万博のチケット予約心得](https://jinproduction.work/other/expo2025/let-us-reserve)
 - [心躍る新技術を体感しよう！ 大阪・関西万博参加レポート①~外観編~](https://jinproduction.work/other/expo2025/joined-report-exterior)
 - [今日を変え、明日を創るものづくり ~7年の高専生活及びその謝辞~](https://jinproduction.work/other/blog/thanks-for-all-of-my-friends)
-- [ProtoPediaプロフィールを充実させて、屈強なポートフォリオにしよう！](https://jinproduction.work/other/blog/protopedia-profile-portfoliio)
 <!-- BLOG-POST-LIST:END -->
