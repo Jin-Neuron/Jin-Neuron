@@ -40,12 +40,3 @@
 ### Editors
 
 <p align="left"> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://wordpress.com/ja/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://inkscape.org/ja/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [手軽に電子工作を学べる！？ TurtlePicoのクラウドファンディング開始！](https://jinproduction.work/work/turtlepicokit/turtlepico-crowdfunding)
-- [研究しながら開発をする日々](https://jinproduction.work/other/blog/research-and-development)
-- [拡張性を得てより便利に！？ TurtlePico新モジュールの概要](https://jinproduction.work/work/turtlepicokit/v2-leatherback)
-- [予約チキンレースに勝ち抜こう！ 大阪・関西万博のチケット予約心得](https://jinproduction.work/other/expo2025/let-us-reserve)
-- [心躍る新技術を体感しよう！ 大阪・関西万博参加レポート①~外観編~](https://jinproduction.work/other/expo2025/joined-report-exterior)
-<!-- BLOG-POST-LIST:END -->
